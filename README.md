@@ -1,4 +1,4 @@
-# hey, I'm Krishna 👋
+# Hey, I'm Krishna 👋
 
 cs undergrad @ BIT Mesra -- yes, another one of those "i'll sleep after the deadline" types.
 
@@ -13,7 +13,7 @@ normal web dev wasn't complicated enough.
 
 also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
 
-### things i pretend to know deeply 🛠️
+### Things I Pretend To Know Deeply 🛠️⚡
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -28,20 +28,20 @@ also an open source contributor, which is just a fancy way of saying i fix other
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
-### stuff i actually shipped (and didn't break... much) 🚀
+### Stuff I Actually Shipped (And Didn't Break... Much) 🚀🔥
 
-- **[KS Code](https://ks-code.vercel.app)** -- real-time collaborative code editor. 10+ users, sub-100ms sync. yes it works, no i don't know how.
-- **[Finance Buddy](https://finance-buddy-lemon.vercel.app)** -- AI fintech platform with autonomous research agents. taught an AI about money. it's doing better than me.
-- **[KS RAG](https://ks-rag.vercel.app)** -- RAG chatbot with 95% retrieval accuracy on 100-page docs. basically built a brain. it reads more than i do.
+- 💻 **[KS Code](https://ks-code.vercel.app)** -- real-time collaborative code editor. 10+ users, sub-100ms sync. yes it works, no i don't know how.
+- 💰 **[Finance Buddy](https://finance-buddy-lemon.vercel.app)** -- AI fintech platform with autonomous research agents. taught an AI about money. it's doing better than me.
+- 🧠 **[KS RAG](https://ks-rag.vercel.app)** -- RAG chatbot with 95% retrieval accuracy on 100-page docs. basically built a brain. it reads more than i do.
 
-### open source 🔧
+### Open Source 🌍✨
 
 contributed to **Stellar-AgentKit**, **StellarPay**, **CalliopeIDE** and a couple others.
 fixing bugs in codebases i didn't write -- character building, truly.
 
-### i also write sometimes ✍️
+### I Also Write Sometimes ✍️📖
 
 when i'm not staring at error logs, i write about tech on medium. it's mostly coherent.
 [read my blogs](https://medium.com/@krishnasrivastava41357)
 
-krishnasrivastava41357@gmail.com | [portfolio](https://krishna-intro.vercel.app) | [linkedin](https://linkedin.com/in/krishna-srivastava-a84b65299) | [medium](https://medium.com/@krishnasrivastava41357)
+📬 krishnasrivastava41357@gmail.com | 🌐 [portfolio](https://krishna-intro.vercel.app) | 💼 [linkedin](https://linkedin.com/in/krishna-srivastava-a84b65299) | 📝 [medium](https://medium.com/@krishnasrivastava41357)
