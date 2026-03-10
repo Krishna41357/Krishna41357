@@ -1,15 +1,17 @@
 # Hey, I'm Krishna 👋
 
-cs undergrad @ BIT Mesra -- yes, another one of those "i'll sleep after the deadline" types.
+CS undergrad @ BIT Mesra -- yes, another one of those "i'll sleep after the deadline" types.
 
-i build full-stack apps that somehow work in production (mostly). react up front, node/fastapi in the back,
+💻 i build full-stack apps that somehow work in production (mostly). react up front, node/fastapi in the back,
 and whatever cursed technology the problem demands in between.
 
-thank god for AI -- i'm finally a real software engineer, no longer held hostage by language syntax.
+🤖 thank god for AI -- i'm finally a real software engineer, no longer held hostage by language syntax.
 system design and scalable applications is my thing now. the machines handle the semicolons.
 
-lately i've been deep in AI agents, RAG pipelines, and blockchain stuff -- because apparently
+⛓️ lately i've been deep in AI agents, RAG pipelines, and blockchain stuff -- because apparently
 normal web dev wasn't complicated enough.
+
+🌍 also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
 
 also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
 
@@ -36,8 +38,11 @@ also an open source contributor, which is just a fancy way of saying i fix other
 
 ### Open Source 🌍✨
 
-contributed to **Stellar-AgentKit**, **StellarPay**, **CalliopeIDE** and a couple others.
-fixing bugs in codebases i didn't write -- character building, truly.
+- 🔗 **Stellar-AgentKit** -- AI agent toolkit built on the Stellar blockchain
+- 💸 **StellarPay** -- on-chain payroll platform
+- 🖥️ **CalliopeIDE** -- browser-based code editor
+- 🔐 **lumenlock** -- Stellar wallet management app
+- 🎓 **LuminaLearn** -- online learning platform
 
 ### I Also Write Sometimes ✍️📖
 
