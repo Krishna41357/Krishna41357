@@ -13,8 +13,6 @@ normal web dev wasn't complicated enough.
 
 🌍 also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
 
-also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
-
 ### Things I Pretend To Know Deeply 🛠️⚡
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
