@@ -8,7 +8,7 @@ and whatever cursed technology the problem demands in between.
 🤖 thank god for AI -- i'm finally a real software engineer, no longer held hostage by language syntax.
 system design and scalable applications is my thing now. the machines handle the semicolons.
 
-⛓️ lately i've been deep in AI agents, RAG pipelines, and blockchain stuff -- because apparently
+⛓️ lately i've been deep in AI agents, RAG pipelines, and Web3 based architectures -- because apparently
 normal web dev wasn't complicated enough.
 
 🌍 also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
