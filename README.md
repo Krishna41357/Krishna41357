@@ -1,50 +1,63 @@
-# Hey, I'm Krishna 👋
+# Krishna Srivastava
 
-CS undergrad @ BIT Mesra -- yes, another one of those "i'll sleep after the deadline" types.
+**Computer Science · BIT Mesra** — yes, another engineering student who sleeps after deadlines and calls it a lifestyle.
 
-💻 i build full-stack apps that somehow work in production (mostly). react up front, node/fastapi in the back,
-and whatever cursed technology the problem demands in between.
+Full-stack engineer who builds things that work in production *mostly* through confidence and caffeine.
+Lately obsessed with AI agents, RAG pipelines, and Web3 architectures — because apparently shipping
+a React app wasn't painful enough. Also an open source contributor, which is a fancy way of saying
+I fix other people's bugs, for free, at 2am, with a smile.
 
-🤖 thank god for AI -- i'm finally a real software engineer, no longer held hostage by language syntax.
-system design and scalable applications is my thing now. the machines handle the semicolons.
+---
 
-⛓️ lately i've been deep in AI agents, RAG pipelines, and Web3 based architectures -- because apparently
-normal web dev wasn't complicated enough.
+## Things I Pretend To Know Deeply
 
-🌍 also an open source contributor, which is just a fancy way of saying i fix other people's bugs for free.
+`TypeScript` `React` `Next.js` `Node.js` `Python` `FastAPI` `MongoDB` `Redis` `Docker` `AWS` `WebSockets` `WebRTC`
 
-### Things I Pretend To Know Deeply 🛠️⚡
+*The machines handle the semicolons. I handle the existential dread.*
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+---
 
-### Stuff I Actually Shipped (And Didn't Break... Much) 🚀🔥
+## Stuff I Actually Shipped (And Didn't Break... Much)
 
-- 💻 **[KS Code](https://ks-code.vercel.app)** -- real-time collaborative code editor. 10+ users, sub-100ms sync. yes it works, no i don't know how.
-- 💰 **[Finance Buddy](https://finance-buddy-lemon.vercel.app)** -- AI fintech platform with autonomous research agents. taught an AI about money. it's doing better than me.
-- 🧠 **[KS RAG](https://ks-rag.vercel.app)** -- RAG chatbot with 95% retrieval accuracy on 100-page docs. basically built a brain. it reads more than i do.
+**[KS Code](https://ks-code.vercel.app)**
+Real-time collaborative code editor. Sub-100ms sync across 10+ concurrent users. Built with React,
+WebSockets, and a concerning amount of optimism. Yes, it works. No, I'm not entirely sure how.
 
-### Open Source 🌍✨
+**[Finance Buddy](https://finance-buddy-lemon.vercel.app)**
+AI fintech platform with autonomous research agents. Taught an AI about money and investments.
+It's doing better than me financially. We don't talk about it.
 
-- 🔗 **Stellar-AgentKit** -- AI agent toolkit built on the Stellar blockchain
-- 💸 **StellarPay** -- on-chain payroll platform
-- 🖥️ **CalliopeIDE** -- browser-based code editor
-- 🔐 **lumenlock** -- Stellar wallet management app
-- 🎓 **LuminaLearn** -- online learning platform
+**[KS RAG](https://ks-rag.vercel.app)**
+RAG chatbot with 95% retrieval accuracy on 100-page documents. Basically built a brain.
+It reads more than I do, remembers more than I do, and judges me silently for it.
 
-### I Also Write Sometimes ✍️📖
+---
 
-when i'm not staring at error logs, i write about tech on medium. it's mostly coherent.
-[read my blogs](https://medium.com/@krishnasrivastava41357)
+## Open Source — Fixing The World's Bugs, One PR At A Time
 
-📬 krishnasrivastava41357@gmail.com | 🌐 [portfolio](https://krishna-intro.vercel.app) | 💼 [linkedin](https://linkedin.com/in/krishna-srivastava-a84b65299) | 📝 [medium](https://medium.com/@krishnasrivastava41357)
+**Stellar-AgentKit** — AI agent toolkit on the Stellar blockchain, because web3 needed more agents apparently
+
+**StellarPay** — On-chain payroll platform, for when you want your salary to be someone else's gas fee problem
+
+**CalliopeIDE** — A browser-based code editor, because VS Code wasn't already everywhere enough
+
+**lumenlock** — Stellar wallet management, keeping your funds locked and your anxiety unlocked
+
+**LuminaLearn** — Online learning platform, for people who learn things other than error messages
+
+---
+
+## I Also Write Sometimes
+
+When I'm not staring at a stack trace at midnight, I write about tech on Medium.
+It's mostly coherent. Occasionally even useful. The bar is on the floor and I clear it gracefully.
+
+[Witness the coherence →](https://medium.com/@krishnasrivastava41357)
+
+---
+
+## Let's Talk — Or Don't, I'm Just An Intro Page
+
+📬 krishnasrivastava41357@gmail.com · [Portfolio](https://krishna-intro.vercel.app) · [LinkedIn](https://linkedin.com/in/krishna-srivastava-a84b65299) · [Medium](https://medium.com/@krishnasrivastava41357)
+
+*Open to opportunities, collabs, and anyone who can explain why my Docker container works locally.*
