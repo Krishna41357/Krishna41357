@@ -133,8 +133,8 @@ Built on 100-page documents — basically built a brain. It reads more than I do
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishna41357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=818CF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna41357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishna41357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=818CF8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishna41357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna41357&theme=tokyonight&hide_border=true&background=0f172a&ring=818CF8&fire=818CF8" />
 
