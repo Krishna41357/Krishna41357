@@ -44,24 +44,88 @@
 
 <div align="center">
 
+<a href="https://github.com/Krishna41357/fixflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=FixFlow&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
+</a>
 <a href="https://ks-code.vercel.app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=KS-Code&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
 </a>
+<br/>
 <a href="https://finance-buddy-lemon.vercel.app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=finance-buddy&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
 </a>
-<br/>
 <a href="https://ks-rag.vercel.app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=KS-RAG&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
 </a>
 
 </div>
 
-| Project | Description |
-|---|---|
-| 💻 **[KS Code](https://ks-code.vercel.app)** | Real-time collaborative code editor. Sub-100ms sync across 10+ concurrent users. |
-| 💰 **[Finance Buddy](https://finance-buddy-lemon.vercel.app)** | AI fintech platform with autonomous research agents. |
-| 🧠 **[KS RAG](https://ks-rag.vercel.app)** | RAG chatbot with 95% retrieval accuracy on 100-page documents. |
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [FixFlow](https://github.com/Krishna41357/fixflow)
+**AI-powered code & data dependency failure diagnosis.**
+
+A GitHub PR bot that maps the full dependency graph of a repo — React, NestJS, TypeORM, SQL migrations, dbt models — then catches breaking changes before merge and posts root-cause fixes straight to the PR. No OpenMetadata, no external lineage server, graph built from the repo itself.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+[`Repo →`](https://github.com/Krishna41357/fixflow)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 [KS Code](https://ks-code.vercel.app)
+**Real-time collaborative code editor.**
+
+Sub-100ms sync across 10+ concurrent users. Built with React, WebSockets, and a concerning amount of optimism. Yes, it works. No, I'm not entirely sure how.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[`Live demo →`](https://ks-code.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [Finance Buddy](https://finance-buddy-lemon.vercel.app)
+**AI fintech platform with autonomous research agents.**
+
+Taught an AI about money and investments. It's doing better than me financially. We don't talk about it.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+[`Live demo →`](https://finance-buddy-lemon.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [KS RAG](https://ks-rag.vercel.app)
+**RAG chatbot with 95% retrieval accuracy.**
+
+Built on 100-page documents — basically built a brain. It reads more than I do, remembers more than I do, and judges me silently for it.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+[`Live demo →`](https://ks-rag.vercel.app)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
