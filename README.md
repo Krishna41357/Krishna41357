@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Krishna%20Srivastava&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Agents%20%7C%20Web3&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Krishna41357">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Computer+Science+%40+BIT+Mesra;Builds+things+that+work+in+production...mostly;AI+Agents+%7C+RAG+Pipelines+%7C+Web3+Architectures;Open+Source+Contributor+%E2%80%94+free+bug+fixes+at+2am" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Computer+Science+%40+BIT+Mesra;Builds+things+that+work+in+production...mostly;AI+Agents+%7C+RAG+Pipelines+%7C+Web3+Architectures;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
