@@ -42,26 +42,6 @@
 
 ## 🚀 Stuff I Actually Shipped (And Didn't Break... Much)
 
-<div align="center">
-
-<a href="https://github.com/Krishna41357/fixflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=FixFlow&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
-</a>
-<a href="https://ks-code.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=KS-Code&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
-</a>
-<br/>
-<a href="https://finance-buddy-lemon.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=finance-buddy&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
-</a>
-<a href="https://ks-rag.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=KS-RAG&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
-</a>
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
