@@ -133,11 +133,11 @@ Built on 100-page documents — basically built a brain. It reads more than I do
 
 <div align="center">
 
-![Stellar-AgentKit](https://img.shields.io/badge/⛓️_Stellar--AgentKit-6366F1?style=flat-square&labelColor=0f172a)
-![StellarPay](https://img.shields.io/badge/💸_StellarPay-6366F1?style=flat-square&labelColor=0f172a)
-![CalliopeIDE](https://img.shields.io/badge/🖥️_CalliopeIDE-6366F1?style=flat-square&labelColor=0f172a)
-![lumenlock](https://img.shields.io/badge/🔐_lumenlock-6366F1?style=flat-square&labelColor=0f172a)
-![LuminaLearn](https://img.shields.io/badge/🎓_LuminaLearn-6366F1?style=flat-square&labelColor=0f172a)
+![Stellar-AgentKit](https://img.shields.io/badge/Stellar--AgentKit-6366F1?style=flat-square&labelColor=0f172a&logo=stellar&logoColor=white)
+![StellarPay](https://img.shields.io/badge/StellarPay-6366F1?style=flat-square&labelColor=0f172a&logo=stellar&logoColor=white)
+![CalliopeIDE](https://img.shields.io/badge/CalliopeIDE-6366F1?style=flat-square&labelColor=0f172a&logo=visualstudiocode&logoColor=white)
+![lumenlock](https://img.shields.io/badge/lumenlock-6366F1?style=flat-square&labelColor=0f172a&logo=stellar&logoColor=white)
+![LuminaLearn](https://img.shields.io/badge/LuminaLearn-6366F1?style=flat-square&labelColor=0f172a&logo=googleclassroom&logoColor=white)
 
 </div>
 
