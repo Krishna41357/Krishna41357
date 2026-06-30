@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Krishna%20Srivastava&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Agents%20%7C%20Web3&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/krishnasrivastava41357">
+<a href="https://github.com/Krishna41357">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Computer+Science+%40+BIT+Mesra;Builds+things+that+work+in+production...mostly;AI+Agents+%7C+RAG+Pipelines+%7C+Web3+Architectures;Open+Source+Contributor+%E2%80%94+free+bug+fixes+at+2am" alt="Typing SVG" />
 </a>
 
@@ -45,14 +45,14 @@
 <div align="center">
 
 <a href="https://ks-code.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasrivastava41357&repo=KS-Code&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=KS-Code&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
 </a>
 <a href="https://finance-buddy-lemon.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasrivastava41357&repo=finance-buddy&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=finance-buddy&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
 </a>
 <br/>
 <a href="https://ks-rag.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnasrivastava41357&repo=KS-RAG&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna41357&repo=KS-RAG&theme=tokyonight&title_color=818CF8&icon_color=818CF8&text_color=cbd5e1&bg_color=0f172a" />
 </a>
 
 </div>
@@ -89,10 +89,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnasrivastava41357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=818CF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasrivastava41357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishna41357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=818CF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna41357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnasrivastava41357&theme=tokyonight&hide_border=true&background=0f172a&ring=818CF8&fire=818CF8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna41357&theme=tokyonight&hide_border=true&background=0f172a&ring=818CF8&fire=818CF8" />
 
 </div>
 
@@ -102,7 +102,7 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/krishnasrivastava41357/krishnasrivastava41357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Krishna41357/Krishna41357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>⚠️ Snake animation requires a one-time GitHub Action setup — see note below.</sub>
 
