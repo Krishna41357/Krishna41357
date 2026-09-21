@@ -1,3 +1,5 @@
+1Q3W1S5SFZ
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Krishna%20Srivastava&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Agents%20%7C%20Web3&descAlignY=58&descSize=18" width="100%"/>
@@ -169,7 +171,7 @@ When I'm not staring at a stack trace at midnight, I write about tech on Medium.
 <div align="center">
 
 ## 📬 Let's Talk — Or Don't, I'm Just An Intro Page
-1Q3W1S5SFZ
+
 *Open to opportunities, collabs, and anyone who can explain why my Docker container works locally.* 🐳
 
 <a href="mailto:krishnasrivastava41357@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
