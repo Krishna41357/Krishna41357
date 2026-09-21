@@ -169,7 +169,7 @@ When I'm not staring at a stack trace at midnight, I write about tech on Medium.
 <div align="center">
 
 ## 📬 Let's Talk — Or Don't, I'm Just An Intro Page
-
+1Q3W1S5SFZ
 *Open to opportunities, collabs, and anyone who can explain why my Docker container works locally.* 🐳
 
 <a href="mailto:krishnasrivastava41357@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
